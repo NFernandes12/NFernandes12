@@ -1,16 +1,21 @@
-## Hi there 👋
+### **Welcome to my digital workshop**
 
-<!--
-**NFernandes12/NFernandes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚡ A little about me..
+* 🌴 Based in Florida
+* 🏋️ Creating a better me.. 60 lbs. healthier and counting
+* 🐍 Diving into python
+* 🎮 WoW player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech & Tools
+* Python
+
+### 🖥️ PC Specs
+* **CPU:** AMD Ryzen 7 9800X3D
+* **GPU:** ASUS PRIME GeForce RTX 5070 Ti 16GB
+* **Motherboard:** Gigabyte X870 GAMING WIFI6
+* **RAM:** Crucial 32GB Pro Overclocking DDR5 6000
+
+### 📫 Reach Me
+* 📧 Email: nafernandes99@gmail.com
